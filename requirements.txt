@@ -1,0 +1,26 @@
+# Core dependencies
+pytest>=7.0.0
+typing-extensions>=4.0.0
+
+# Cryptographic functions
+cryptography>=3.4.0
+pycryptodome>=3.10.0
+
+# Data structures and serialization
+msgpack>=1.0.0
+protobuf>=3.15.0
+
+# Network and async
+aiohttp>=3.8.0
+websockets>=10.0
+
+# Storage and database
+leveldb>=0.201
+rocksdb>=0.7.0
+
+# Development and testing
+black>=22.0.0
+flake8>=4.0.0
+mypy>=0.900
+pytest-asyncio>=0.18.0
+pytest-cov>=3.0.0
